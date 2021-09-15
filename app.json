@@ -2,6 +2,7 @@
     "name": "VCPlayerBot",
     "description": "Telegram bot to stream video in telegram VC",
     "repository": "https://github.com/subinps/VCPlayerBot",
+    "logo": "https://telegra.ph/file/06b1e331192c871ed8769.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
